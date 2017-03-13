@@ -1,0 +1,19 @@
+{
+  "name": "github-stats-analyser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniket965/github-stats-analyser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aniket965/github-stats-analyser/issues"
+  },
+  "homepage": "https://github.com/Aniket965/github-stats-analyser#readme"
+}
