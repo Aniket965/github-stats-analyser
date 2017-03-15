@@ -43,8 +43,10 @@ request(url, function (error, res, html) {
     });
     console.log(days_percentage);
     // console.log(c);
+    
     console.log(total_work + ' exculding sundays');
-
+    // prints array of work
+    console.log(days +'array represent tota work on each day');
 
   }
 
