@@ -1,6 +1,5 @@
 
 var fs = require('fs');
-var cheerio = require('request');
 var request = require('request');
 var cheerio = require('cheerio');
 // taking the page
